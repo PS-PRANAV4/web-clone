@@ -1,0 +1,745 @@
+body
+{
+    margin: 0;
+}
+.container
+{
+    color: #c5c5cc;
+    background-color: #000000;
+    opacity: 80%;
+    font-size: 80%;
+    font-family: FONT-FAMILY
+    SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    line-height: 3.66667;
+    font-weight: 500;
+    height: 25px;
+    
+    text-decoration: none;
+    white-space: nowrap;
+    outline-offset: -7px;
+    background-position: center center;
+    letter-spacing: -.01em;
+    font-stretch: extra-expanded;
+    
+    letter-spacing: 0.12px;
+    text-align: left;
+    line-height: 25px;
+    position: sticky;
+    
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding: 9px;
+    justify-content: space-evenly;
+    cursor: pointer;
+    
+    
+}
+.container:hover
+{
+background-color: #1d1d1f;
+}
+.applelogo
+{
+   
+    margin-top: -.5%;
+}
+.applelogo
+{
+    margin-left: 11%;
+}
+.market
+{
+    margin-right: 14%;
+}
+.market
+{
+    margin-top: -0.5%;
+}
+.search
+{
+    margin-top: -3.4%;
+}
+.second_line
+{
+    background-color: #f5f5f7;
+    color: #000000;
+    font-family: FONT-FAMILY
+    SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    
+    font-weight:lighter;
+   
+    line-height: 50px;
+    letter-spacing: -0.374px;
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-stretch:extra-expanded ;
+    
+}
+.iphone13
+{
+    color: #1d1d1f;
+    font-family:  SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 325%;
+    font-weight:600;
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5%;
+}
+.pro
+{
+    color: #1d1d1f;
+    font-family:  SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 175%;
+    padding-top: 0.25%;
+    font: weight 100px;
+    display: flex;
+    justify-content: center;
+    /* margin-top: 2.5%; */
+}
+.third_block
+{
+    color: #0066cc;
+    font-size: 21px;
+    line-height: 29.001px;
+    text-align: center;
+    letter-spacing: 0.231px;
+    display: flex;
+    justify-content: center;
+}
+.learn
+{
+    padding-left: -15%;
+}
+.buy
+{
+    padding-left: 2.5%;
+}
+ .i_photo
+{
+  
+    display: flex;
+    margin-left: 55ch;
+    justify-content: center;
+    
+     width: 730px;
+    height: auto; 
+} 
+.space
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.new
+{
+    font-family:  SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif ;
+    display: flex;
+    justify-content: center;
+    padding-top: 4ch;
+    font-size: 2.5ch;
+    font-weight: 600;
+    font-stretch: extra-expanded;
+
+}
+.se
+{
+    font-weight: 300;
+    font-family:  SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif ;
+display: flex;
+justify-content: center;
+}
+.love
+{
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    font-size: 28px ;
+    line-height: 25px;
+    letter-spacing: -0.374px;
+    color: #1d1d1f;
+    margin-left: 39ch;
+    padding-top: 0.25%;
+}
+.iphone13_back
+{
+    background-color: #f5eeee28;
+    margin-top: -1%;
+}
+.se_buy
+{
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2ch;
+    font-size: 24px;
+    color: #0066cc;
+}
+.main2
+{
+    background-color: #f5eeee28;
+    margin-top: 2ch;
+}
+.more2
+{
+    margin-left: -1.ch;
+}
+.se_buy
+{
+margin-top: 1.3ch;
+font: weight 100px;
+}
+.buy2
+{
+    margin-left: 5ch;
+}
+.se_im
+{
+    margin-top: ch;
+    display: flex;
+    justify-content: center;
+    width: -10ch;
+}
+.ipad_pic
+{
+   background-size: 600px;
+}
+.ipad_pic
+{
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+   height: 600px;
+}
+#img1
+{
+    margin-left: 25ch;
+}
+#img2
+{
+    width: 250px;
+    height:120px;
+    margin-top: 25ch;
+    margin-left: 36ch;
+    position: absolute;
+}
+.light
+{
+    color: #f5f5f7;
+    margin-top: -16ch;
+    position: absolute;
+    margin-left: 14ch;
+    font-size: xx-large;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    font-weight: 100;
+}
+.cart3
+{
+    display: flex;
+    flex-direction: row;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    font-weight: 100;
+    font-size:large;
+    position: absolute;
+    color: #f5f5f7;  
+    margin-top: -22ch;  
+    margin-left: 28ch;
+    color: #0066cc;
+    font-weight: 600;
+
+}
+.buy3
+{
+    margin-left: 6ch;
+}
+.ic
+{
+    display: flex;
+    flex-direction: row;
+    /* width: 25px;
+    height: 25px; */
+}
+#icon
+{
+    width: 98ch;
+    height: 80ch;
+    margin-top: 3ch;
+   
+}
+#ac
+{
+    width: 70ch;
+    height: 60ch;
+    margin-top: 20ch;
+    margin-left: 25%;
+}
+.conf
+{
+    margin-top: -13ch;
+    margin-left: 18ch;
+    color: #f5f5f7;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    font-size: xx-large;
+}
+#app_logo
+{
+    margin-left: -2.5ch;
+    margin-top: -1.2ch;
+    height: 5ch;
+    width: 5ch;
+}
+.june
+{
+    color: #c5c5cc;
+    margin-top: -16ch;
+    font-size: larger;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    margin-left: 22ch;
+}
+.learn5
+{
+    color: #2121db;
+    margin-top: 1ch;
+    font-size: medium;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    margin-left: 39ch;
+}   
+.maco
+{
+margin-left: 126ch;
+margin-top: -60ch;
+color: #000000;
+font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+
+}
+#maco
+{
+    font-size: xx-large;
+    font-weight: 600;
+
+}
+.emp
+{
+    margin-left: 2ch;
+    font-size: large;
+
+
+}
+.car8
+{
+    margin-top: 1ch;
+    display: flex;
+    flex-direction: row;
+    color: #2121db;
+}
+.buy8
+{
+    margin-left: 5ch;
+}
+.b7
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 90ch;
+    background-color: #f5f5f88d;
+    opacity: 20;
+    margin-left: 25ch;
+}
+#ip3
+{
+    margin-left: 45ch;
+
+}
+#tv
+{
+    height: 120%;
+    width: 150%;
+    margin-left: -10ch;
+}
+.b7t
+{
+margin-top: -55ch;
+margin-left: 25ch;
+}
+.top7
+{
+    display: flex;
+    flex-direction: row;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    font-size: 200%;
+    font-weight: 600;
+    
+}
+.ip3t
+{
+    margin-left: 31ch;
+    font-size: 120%;
+}
+.middle7
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2.5ch;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    font-size: larger;
+}
+.super7
+{
+    margin-left: 67ch;
+    font-size: large;
+}
+.l7
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0.5ch;
+    color: #2121db;
+    font-size: medium;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+
+.b745
+{
+margin-left: 5ch;
+}
+
+
+.l72
+{
+margin-left: 72ch;
+}
+.b72
+{
+margin-left: 7ch;
+}
+.blast_pic
+{
+    
+    display: flex;
+    flex-direction: row;
+    margin-top: 50ch;
+    background-color: #f4f4f43e;
+   
+}
+#bseries
+{
+    margin-left: 25ch;
+    height:80%;
+    width: 110%;
+}
+#bwatch
+{
+    height:80%;
+}
+.big
+{
+   margin-left: 50ch;
+    
+}
+.big_l
+{
+    margin-top: 500ch;
+
+}
+#watcht
+{
+    /* background-color: #000000; */
+    position: absolute;
+    width:  13%;
+    height: auto;
+    padding-top: 2ch;
+    margin-left: -130ch;
+}
+.dis12
+{
+    /* background-color: #000000; */
+    /* padding-top: -60ch; */
+    position: absolute;
+    margin-top: 9.5ch;
+    padding-left: 13%;
+    font-size: larger;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+.last45
+{
+    /* background-color: #000000; */
+    font-size: large;
+    margin-left: -98ch;
+    display: flex;
+    flex-direction: row;
+    margin-top: 12ch;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    color: #2121db;
+}
+.b9b
+{
+    margin-left: 3ch;
+}
+.tv_t_l
+{
+    /* background-color: #000000; */
+    margin-left: 116ch;
+    position: absolute;
+    margin-top: 49ch;
+    
+
+}
+#tv_t_l
+{
+    width: 125%;
+}
+.mi
+{
+position: absolute;
+font-weight: 400;
+font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+margin-left: 101ch;
+color: #c5c5cc;
+margin-top: 46ch;
+font-size: larger;
+font-weight: 400;
+
+}
+#tv_logo5s
+{
+   
+    width: 140%;
+    height: auto;
+}
+.tvmn
+{
+margin-left: 85ch;
+margin-top: 10ch;
+}
+.streams
+{
+    color: #2121db;
+    display: flex;
+    flex-direction: row;
+    margin-top: 49ch;
+    font-size: larger;
+    font-weight: 400;
+    margin-left: -9ch;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+
+}
+.stream_sign
+{
+    margin-left: 1ch;
+    
+    background-color: #2121db;
+    width:-5ch;
+    height: -60ch;
+}
+.button5
+{
+    width: 15%;
+    height: 10%;
+    border-radius: 50%;
+    margin-left: 2ch;
+    background-color: #2121db;
+}
+.footer
+{
+    position: absolute;
+background-color: #c5c5cc;
+margin-top: -15ch;
+margin-bottom: 25%;
+height: 90ch;
+width: 190ch;
+}
+.footer_para
+{
+    padding-top: 2ch;
+    font-size: small;
+    margin-left: 30ch;
+    margin-right: 20ch;
+    font-weight: lighter;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+.line
+{
+    color: #c5c5cc;
+}
+.footer_main
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 19ch;
+    font-size: small;
+    font-weight: 400;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    height: 50%;
+    
+}
+.servicesl
+{
+    margin-left: 4ch;
+    font-size: small;
+font-weight: 600;
+
+}
+.shopl
+{
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-weight: 100;
+    
+}
+
+.s_l_a
+{
+    margin-left: -3ch;
+font-size: small;
+font-weight: 600;
+}
+.storela
+{
+padding-top: 1ch;
+}
+.macla
+{
+padding-top: 1ch;
+}
+.ipadla
+{
+padding-top: 1ch;
+}
+.iphonela, .watchla, .airpola , .tvlal, .podla, .tagla
+{
+    padding-top: 1ch;
+} 
+.opsla
+{
+    padding-top: 1ch;
+    
+}
+.la2
+{
+    font-size: small ;
+    font-weight: 100;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+.la2, .applela, .appletla,.appletela, .icala, .onela, .bookla, .ppodcala, .appla
+{
+    padding-top: 1ch;
+}
+.accountla
+{
+    padding-top: 4ch;
+    font-size: small;
+    font-weight: 600;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+.manla, .unkla
+{
+    padding-top: 1ch;
+}
+.koola
+{
+    padding-top: 1ch;
+}
+#unkmla
+{
+    
+  font-size: small;
+  font-weight: 600;
+}
+.wala, .trala, .reala, .orla
+{
+    padding-top: 1ch;
+    font-size: small;
+    font-weight:100 ;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+.shoppla
+{
+    padding-top: 1ch;
+    font-weight: 100;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+.b4la
+{
+    font-size: small;
+  font-weight: 600;
+
+}
+.b41la,.b42la,.b43la,.b45la,.b46la,.b47la, .b48la, .b49la
+{
+    padding-top: 1ch;
+    font-weight: 100;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+.b47la
+{
+    font-size: small;
+    font-weight: 600;
+    padding-top: 4ch;
+}
+.b5la
+{
+    margin-right: 27ch;
+    font-size: small;
+ 
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+       font-weight: 600;
+}
+.b51la, .b52la, .b53la, .b54la, .b55la, .b56la, .b57la, .b58la, .b59la, .b510la, .b511la, .b511la
+{
+    font-size: small;
+    font-weight: 100;
+    padding-top: 1ch;
+}
+.b55la
+{
+    font-size: small;
+    font-weight: 600;
+    padding-top: 4ch;
+}
+.call3
+{
+    display: flex;
+    flex-direction: row;
+    
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    margin-left: 26ch;
+    font-size: small;
+    font-weight: 500;
+}
+.find5
+{
+    color: #2121db;
+}
+.policy
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 29ch;
+   font-size: small;
+   font-weight: 200;
+}
+.fpl
+{
+    padding-left: 2ch;
+}
+.verti1, .verti2, .verti3
+{
+    padding-left: 1ch;
+    padding-right: 1ch;
+    color: #5b5b5d;
+}
+.co
+{
+    padding-left: 65ch;
+    font-size: small;
+    font-weight: 600;
+    font-stretch: expanded;
+}
